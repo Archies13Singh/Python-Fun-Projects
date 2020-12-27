@@ -37,3 +37,13 @@ Project 4 : URL Extraction Tool
       
       Direction :- Project 4 output - displays all the content of given link and security keys, cookies etc
                    Project 4.1 output - Displays html code of input link.
+                        
+Project 5 : URL Shortening Tool
+
+      package used pyshorteners
+            
+      command (python3) :- pip3 install pyshorteners
+      
+      Direction :- If you input any link of small or large size then it will converted into small length link
+                   Example :- Input -> https://google.qwiklabs.com/games/1431?utm_source=qwiklabs&utm_medium=lp&utm_campaign=holiday-speedrun
+                              Output -> https://tinyurl.com/y7pg2woe
