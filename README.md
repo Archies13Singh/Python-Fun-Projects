@@ -28,3 +28,12 @@ Project 3 : Qr-code generator
       command (python3) :- pip3 install pyqrcode
       
       Direction :- After you give input, it will generate one png file.
+          
+Project 4 : URL Extraction Tool
+
+      package urllib
+            
+      command (python3) :- urllib is a python-inbuilt package
+      
+      Direction :- Project 4 output - displays all the content of given link and security keys, cookies etc
+                   Project 4.1 output - Displays html code of input link.
