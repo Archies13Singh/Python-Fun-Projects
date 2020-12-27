@@ -21,3 +21,10 @@ Project 2 : wikipedia search tool
       
       Direction :- Input whatever you want to search, it will display summary of your search.
       
+Project 3 : Qr-code generator
+
+      package used pyqrcode
+            
+      command (python3) :- pip3 install pyqrcode
+      
+      Direction :- After you give input, it will generate one png file.
