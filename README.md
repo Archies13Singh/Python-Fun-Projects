@@ -47,3 +47,12 @@ Project 5 : URL Shortening Tool
       Direction :- If you input any link of small or large size then it will converted into small length link
                    Example :- Input -> https://google.qwiklabs.com/games/1431?utm_source=qwiklabs&utm_medium=lp&utm_campaign=holiday-speedrun
                               Output -> https://tinyurl.com/y7pg2woe
+                 
+Project 6 : Google SearchTool
+
+      package used google
+            
+      command (python3) :- pip3 install google
+      
+      Direction :- After you give input, it will show all related results.    
+                          
