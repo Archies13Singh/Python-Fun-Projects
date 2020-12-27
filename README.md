@@ -11,6 +11,13 @@ Project 1 : copy paste <br>
       
       Direction to use :- 1) After writing the code Run it ( No output will be generated)
       
-                          2) Now press Ctrl+V on any blank sheet, it will paste the input which you have given to your program.                                                  
+                          2) Now press Ctrl+V on any blank sheet, it will paste the input which you have given to your program.                                     
 
-
+Project 2 : wikipedia search tool
+      
+      package used wikipedia
+      
+      command (python3) :- pip3 install wikipedia
+      
+      Direction :- Input whatever you want to search, it will display summary of your search.
+      
