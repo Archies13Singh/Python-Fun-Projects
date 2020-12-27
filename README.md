@@ -55,4 +55,11 @@ Project 6 : Google SearchTool
       command (python3) :- pip3 install google
       
       Direction :- After you give input, it will show all related results.    
+      
+Project 7 : Pocket Dictionary
+
+      package used pydictionary
+            
+      command (python3) :- pip3 install pydictionary
+      
                           
